@@ -370,7 +370,7 @@ importers:
         specifier: ^1.10.14
         version: 1.13.4
       typescript:
-        specifier: ^5.1.6
+        specifier: ^5.5.2
         version: 5.5.3
       vite:
         specifier: 5.2.9
